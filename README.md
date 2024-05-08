@@ -1,5 +1,13 @@
-# 💫 About Me:
-I'm currently a final-year Electrical & Electronics Engineering Undergraduate. Enthusiastic about programming, embedded system design, PCB design, and also interested in learning hardware descriptive languages like Verilog HDL
+<h1 align="center">Hi 👋, I'm Janitha Rathnayake</h1>
+<h3 align="center">A passionate Electrical & Electronics Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janithab&label=Profile%20views&color=0e75b6&style=flat" alt="janithab" /> </p>
+
+- 🔭 I’m currently working on **Spiking Neural Network for Information Processing**
+
+- 🌱 I’m currently learning **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
+
+- 📫 How to reach me **jbrathnayake98@gmail.com**
 
 
 ## 🌐 Socials:
