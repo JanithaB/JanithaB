@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janitha Rathnayake</h1>
 <h3 align="center">A passionate Electrical & Electronics Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janithab&label=Profile%20views&color=0e75b6&style=flat" alt="janithab" /> </p>
 
 - 🔭 I’m currently working on **Spiking Neural Network for Information Processing**
 
