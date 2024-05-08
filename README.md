@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Electrical & Electronics Engineer</h3>
 
 
+
 - 🔭 I’m currently working on **Spiking Neural Network for Information Processing**
 
 - 🌱 I’m currently learning **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
