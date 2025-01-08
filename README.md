@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Spiking Neural Network for Information Processing**
+- 🔭 I’m currently **looking for work!**
 
-- 🌱 I’m currently learning **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
+- 🌱 I’m currently learning **C++ / Digital Design / Embedded Systems / Verilog**
 
 - 📫 How to reach me **jbrathnayake98@gmail.com**
 
